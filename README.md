@@ -1,2 +1,2 @@
 # PicGo
-save image link
+save image and produce a link.
